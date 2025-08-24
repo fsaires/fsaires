@@ -22,7 +22,7 @@ Let's collaborate to build remarkable experiences together. I'm excited to explo
   <strong>Connect with me:</strong>
   <br><br>
   <a href="https://www.linkedin.com/in/fsaires/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="100" alt="LinkedIn"/>
   </a>
 </p>
 
