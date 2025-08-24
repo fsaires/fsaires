@@ -16,11 +16,8 @@ I am a Senior Software Engineer with over 15 years of extensive experience in de
 Let's collaborate to build remarkable experiences together. I'm excited to explore how my skills can enhance the success of your team!
 </p>
 
-<br>
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <h3 align="center">Connect with me:</h3>
-  <br>
   <a href="https://www.linkedin.com/in/fsaires/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="150" alt="LinkedIn"/>
   </a>
