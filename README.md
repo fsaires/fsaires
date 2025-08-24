@@ -19,11 +19,9 @@ Let's collaborate to build remarkable experiences together. I'm excited to explo
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fsaires/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="150" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="125" alt="LinkedIn"/>
   </a>
 </p>
-
-<br>
 
 <h3 align="center">Qualifications and Technologies</h3>
 
