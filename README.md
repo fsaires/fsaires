@@ -22,7 +22,7 @@ Let's collaborate to build remarkable experiences together. I'm excited to explo
   <strong>Connect with me:</strong>
   <br><br>
   <a href="https://www.linkedin.com/in/fsaires/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -41,8 +41,8 @@ Let's collaborate to build remarkable experiences together. I'm excited to explo
 
 <h4 align="center">PROGRAMMING LANGUAGES & TOOLS</h4>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
 </p>
@@ -61,7 +61,6 @@ Let's collaborate to build remarkable experiences together. I'm excited to explo
 
 <h4 align="center">TOOLS/PLATFORMS</h4>
 <p align="center">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="40" alt="Composer" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="40" alt="DBeaver"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
@@ -72,6 +71,20 @@ Let's collaborate to build remarkable experiences together. I'm excited to explo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40" alt="Vite"/>
 </p>
 
+<h4 align="center">METHODOLOGIES</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0095D9?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
+  <img src="https://img.shields.io/badge/Scrum-0095D9?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
+  <img src="https://img.shields.io/badge/Kanban-008080?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban">
+</p>
+
+<h4 align="center">WEB TECHNOLOGIES</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs">
+</p>
 
 <br>
 
